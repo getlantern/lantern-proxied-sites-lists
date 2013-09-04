@@ -1,4 +1,6 @@
-lantern-proxied-sites-lists
+Lantern Proxied Sites Lists
 ===========================
 
-Wiki for maintaining different proxied sites lists for Lantern
+This project provides a wiki for collaboratively maintaining proxied sites lists for Lantern:
+
+https://github.com/getlantern/lantern-proxied-sites-lists/wiki
