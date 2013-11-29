@@ -1,6 +1,6 @@
 This list was created from [AutoProxy](https://addons.mozilla.org/en-US/firefox/addon/autoproxy/), who actively maintain
 the list in their [open source repo](https://code.google.com/p/autoproxy-gfwlist/). They do all the hard work, this
-version is just an attempt to format their list in to something [Lantern](http://getlantern.org] can understand.
+version is just an attempt to format their list in to something [Lantern](http://getlantern.org) can understand.
 
 This version was made in October of 2013. Downloaded the autoproxy firefox plugin, copied everything they had in their
 in to sublime text, and then did various regex and de-duplication clean up. Lantern does not use or respect
